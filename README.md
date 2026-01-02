@@ -20,3 +20,26 @@ This project is designed for beginners to practice basic arithmetic operations a
 1. Clone the repository:
    ```bash
    git clone https://github.com/harinisri-2024-aia/github-final-project.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd github-final-project
+   ```
+3. Run the program (Python required):
+   ```bash
+   python simple_interest_calculator.py
+   ```
+
+## Example
+```
+Input:
+P = 1000
+R = 0.05
+T = 2
+
+Output:
+Simple Interest = 100
+```
+
+## License
+This project is licensed under the MIT License.
